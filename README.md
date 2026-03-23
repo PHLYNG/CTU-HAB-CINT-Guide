@@ -4,7 +4,7 @@
 
 ### Table of Contents
 
-1. [Introduction](1. Introduction.md)
+1. [Introduction](Introduction.md)
 2. The Science - What Are We Measuring?
 3. The Payload - With What Are We Measuring?
 4. Calibration - How Do We Know the Measurements Are Correct?
