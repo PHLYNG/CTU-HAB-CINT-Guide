@@ -7,7 +7,7 @@
 1. [Introduction](Introduction.md)
 2. Science - What Are We Measuring?
 3. Payload - With What Are We Measuring?
-    1. (Sensor Code)[sensor_code.ino]
+    1. [Sensor Code](sensor_code.ino)
 5. Calibration - How Do We Know the Measurements Are Correct?
 6. Integration - How Do We Put it All Together?
 7. Testing - Making Sure it All Works Like it Should
