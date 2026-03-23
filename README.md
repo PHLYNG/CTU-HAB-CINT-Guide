@@ -4,7 +4,7 @@
 
 ### Table of Contents
 
-1. [Introduction](https://github.com/PHLYNG/CTU-HAB-CINT-Guide/blob/db0502863974860accc3afe69b441279cb800c10/1.%20Introduction.md)
+1. [Introduction](1. Introduction.md)
 2. The Science - What Are We Measuring?
 3. The Payload - With What Are We Measuring?
 4. Calibration - How Do We Know the Measurements Are Correct?
