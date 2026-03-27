@@ -1,6 +1,6 @@
 # 1. Introduction
 
-Welcome to my Calibration, Integration, and Testing Guide for High Altitude Ballooning.
+Welcome to my Calibration, Integration, and Testing (CINT) Guide for High Altitude Ballooning (HAB).
 
 This guide was produced as my Senior Design project and was made with the students of AE-150 in mind.
 
@@ -11,3 +11,7 @@ Students will also be introduced to concepts across several different classes th
 - Remote Sensing
 - Electronics
 - MATLAB
+
+This is meant to be a living document. Students and the general public are welcome to suggest changes or additions for evaluation and merging.
+
+Thanks, and enjoy!
