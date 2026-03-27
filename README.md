@@ -5,7 +5,7 @@
 ### Table of Contents
 
 1. [Introduction](Introduction.md)
-2. Science - What Are We Measuring?
+2. [Science - What Are We Measuring?](science.md)
 3. Payload - With What Are We Measuring?
     1. [Sensor Code](sensor_code.ino)
 5. Calibration - How Do We Know the Measurements Are Correct?
