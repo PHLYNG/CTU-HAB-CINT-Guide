@@ -2,7 +2,7 @@
 
 ## High Altitude Balloon Calibration, Integration, and Testing Guide
 
-https://static.vecteezy.com/system/resources/previews/001/970/338/original/building-under-construction-site-free-vector.jpg
+<img width="1920" height="1112" alt="image" src="https://github.com/user-attachments/assets/72567c80-a013-42cb-b9d6-dd3cc2d528c8" />
 
 ### Table of Contents
 
