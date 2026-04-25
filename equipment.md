@@ -1,4 +1,4 @@
-# 1. Introduction
+# 3. Payload - With What Are We Measuring?
 
 The goal with this payload is to keep things relatively simple. We want to use components that are readily available and have lots of documentation.
 
